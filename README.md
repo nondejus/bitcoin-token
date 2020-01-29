@@ -74,4 +74,3 @@ browserify index.js > bundle.js
 ## Troubleshooting
 
 Ask in our [Telegram group](https://t.me/joinchat/FMrjOUWRuUkNuIt7zJL8tg) or have a look at the [documentation](http://www.bitcointoken.com/docs).
-
